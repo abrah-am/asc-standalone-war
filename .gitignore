@@ -1,7 +1,7 @@
 *.class
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+#ignore the target folder
+target/
 
 # Package Files #
 *.jar
